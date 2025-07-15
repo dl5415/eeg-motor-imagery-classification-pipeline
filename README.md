@@ -1,4 +1,4 @@
-# eeg-motor-imagery-classification-pipeline
+# EEG Flexion vs Extension Classifier (2021)
 
 This repository contains a full signal processing and machine learning pipeline for decoding hand flexion and hand extension movements from 32-channel EEG data. Models are trained on data from one session and tested on two separate sessions to evaluate cross-session generalization performance.
 
