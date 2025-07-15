@@ -9,3 +9,5 @@ MI_classification_pipeline.m: The full classification pipeline, including prepro
 functions folder: the functions used in the pipeline
 
 selectedChannels.mat: the 32-channel EEG montage used in this project
+
+Project_report.pdf: A report that summarizes the model's performance and our key findings
